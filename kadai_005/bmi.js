@@ -2,4 +2,7 @@ let kg;
 kg = '68'
 let m;
 m = '1.7'
-console.log(kg / (m * m))
+let bmi
+bmi = kg / (m * m)
+
+console.log(bmi)
